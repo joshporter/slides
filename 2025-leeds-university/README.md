@@ -3,12 +3,15 @@
 Below are some related resources to topics I referenced in my presentation.
 
 ## Github Student Developer Pack
-Lot of tools and resources using university email 
+Lot of tools and resources using university email: 
+
 [Github Student Developer Pack](https://education.github.com/pack)
 
 ## Meetups
 [Yorkshire DevOps](https://www.meetup.com/yorkshire-devops)
+
 [LeedsJs](https://www.meetup.com/leeds-js)
+
 [Leeds Mobile](https://www.meetup.com/leeds-mobile)
 
 ## System Design Interview
@@ -29,4 +32,5 @@ Collabaitve ways of working I reference when working at an SME (Awaze - Search T
 
 ## Conference talks
 Software engineering conferences tend to upload talks onto Youtube after the event. Great resource to get examples:
+
 [100 Most Watched Software Engineering Talks Of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering)
