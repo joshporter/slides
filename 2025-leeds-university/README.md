@@ -1,4 +1,4 @@
-# Software Engineer at an SME - Leeds University - 17/2/25
+# Collaboration as a Software Engineer - Leeds University - 17/2/25
 
 Below are some related resources to topics I referenced in my presentation.
 
@@ -20,7 +20,7 @@ A great resource that helps prepare for system design stages of interview proces
 [System Design Primer](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#study-guide)
 
 ## Mob programming
-Collabaitve ways of working I reference when working at an SME (Awaze - Search Team). More resources to explore below:
+Collabaitve ways of working I reference when working at Awaze - Search Team. More resources to explore below:
 
 [Code with the Wisdom of the Crowd: Get Better Together with Mob Programming](https://pragprog.com/titles/mpmob/code-with-the-wisdom-of-the-crowd/)
 
